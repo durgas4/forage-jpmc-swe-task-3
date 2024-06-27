@@ -12,7 +12,7 @@ class App extends Component<{}, IState> {
   constructor(props: {}) {
     super(props);
     this.state = {
-      data: [],
+      data: [], 
       showGraph: false,
     };
   }
